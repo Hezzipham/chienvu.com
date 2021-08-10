@@ -1,0 +1,26 @@
+############################# feature ###################################
+feature:
+  enable : true
+  title : Giới Thiệu
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  content : "Lĩnh Vực Hoạt Động"
+  feature_item : 
+      # feature item loop
+    - title : Cưới Hỏi, Sự Kiện
+      icon : ti-video-clapper # themify icon pack : https://themify.me/themify-icons
+      content : Chúng tôi có nhiều năm kinh nghiệm quay phim, chụp hình đám cưới, đám hỏi. Bạn chỉ cần xinh đẹp trong ngày cưới, những thứ khác chúng tôi lo!
+      
+      # feature item loop
+    - title : Video Âm Nhạc
+      icon : ti-music-alt # themify icon pack : https://themify.me/themify-icons
+      content : Sáng tạo trong cách chuyển cảnh, góc máy giúp tăng hiệu ứng âm nhạc là điểm mạnh của chúng tôi!
+
+      # feature item loop
+    - title : Thương Mại, Quảng Cáo
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Chúng tôi tự hào mang đến những sản phẩm chất lượng và có ý nghĩa nhất khi nhận rất nhiều những dự án quảng cáo từ các doanh nghiệp lớn.
+      # feature item loop
+    - title : Branding Cá Nhân
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Chúng tôi cam kết chụp ảnh, quay phim quảng cáo thương hiệu cá nhân với giá cả hợp lý và thái độ chuyên nghiệp.

@@ -1,0 +1,26 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/bg-testimonial.jpg
+  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  testimonial_item :
+    # testimonial item loop
+    - name : Shark Hung
+      image : images/client/sharkhung.jpg
+      image_webp : images/client/sharkhung.webp
+      date : Dec 26, 2018
+      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      
+    # testimonial item loop
+    - name : Miss VN Ky Duyen 
+      image : images/client/kyduyen.jpg
+      image_webp : images/client/kyduyen.webp
+      date : Dec 26, 2018
+      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      
+    # testimonial item loop
+    - name : Trong Hieu Singer
+      image : images/client/tronghieu.jpg
+      image_webp : images/client/tronghieu.webp
+      date : Dec 26, 2018
+      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!

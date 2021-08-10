@@ -1,0 +1,29 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Skills
+  subtitle : Domino Media's Growth Rate 
+  content : We’ve skilled in wide range of video production and digital field.
+  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Video Production
+      percent : 95%
+
+    # skill item loop
+    - name :  Dronography
+      percent : 90% 
+      
+    # skill item loop
+    - name :  Photography
+      percent : 80%
+
+      
+    # skill item loop
+    - name :  Graphic Design
+      percent : 80%
+
+     # skill item loop 
+    - name :  Wed Development
+      percent : 95%
+      

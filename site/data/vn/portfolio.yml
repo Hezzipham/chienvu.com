@@ -1,0 +1,98 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Sản Phẩm
+  portfolio_item :
+    # portfolio item loop
+    - name : Huế
+      image : images/portfolio/hue.jpg
+      image_webp : images/portfolio/hue.webp
+      categories : ["videography", "dronography"]
+      content : Du lịch Huế.
+      link : "https://www.youtube.com/watch?v=vM8m020jUQU"
+
+        # portfolio item loop
+    - name : Bay trên mùa vàng
+      image : images/portfolio/drone.jpg
+      image_webp : images/portfolio/drone.webp
+      categories : ["dronography"]
+      content : Du lịch Việt Nam
+      link : "https://youtu.be/hfkUxd7DyAE"
+
+  
+    # portfolio item loop
+    - name : Shark Hưng
+      image : images/portfolio/sharkhung.jpg
+      image_webp : images/portfolio/sharkhung.webp
+      categories : ["photography"]
+      content : Phỏng vấn dự án Luxstay
+      link : "https://fb.watch/7fYwfMgw7-/"
+
+      # portfolio item loop
+    - name : Bất Động Sản
+      image : images/portfolio/factory.jpg
+      image_webp : images/portfolio/factory.webp
+      categories : ["videography", "dronography"]
+      content : TVC khu đô thị An Cựu City - Huế.
+      link : "https://fb.watch/7fYmzu0asl/"
+      
+
+   # portfolio item loop
+    - name : Quảng Cáo Xe
+      image : images/portfolio/car.jpg
+      image_webp : images/portfolio/car.webp
+      categories : ["dronography"]
+      content : Quảng Cáo Xe Huyndai.
+      link : "https://fb.watch/7fYb6sVojW/"
+   
+
+    # portfolio item loop
+    - name : Nghệ Sỹ Nhân Dân Hoàng Dũng
+      image : images/portfolio/hoangdung.jpg
+      image_webp : images/portfolio/hoangdung.webp
+      categories : [ "photography"]
+      content : Phỏng Vấn Nghệ Sỹ Hoàng Dũng 
+      link : ""
+
+     # portfolio item loop
+    - name : Mỹ Linh
+      image : images/portfolio/mylinh.jpg
+      image_webp : images/portfolio/mylinh.webp
+      categories : ["photography"]
+      content : Phỏng Vấn Hoa Hậu Việt Nam 
+      link : "#"
+
+      # portfolio item loop
+    - name : Hoạt Động Biển
+      image : images/portfolio/workout.jpg
+      image_webp : images/portfolio/workout.webp
+      categories : ["videography"]
+      content : Quảng Cáo Resort
+      link : "#"
+
+      # portfolio item loop
+    - name : Quách Ánh Show
+      image : images/portfolio/quachanh.jpg
+      image_webp : images/portfolio/quachanh.webp
+      categories : ["videography"]
+      content : Tại AEON MALL Long Biên.
+      link : ""
+    
+    # portfolio item loop
+    - name : Quảng Cáo Tenere 
+      image : images/portfolio/kiddo.jpg
+      image_webp : images/portfolio/kiddo.webp
+      categories : ["videography"]
+      content : Video quảng cáo 
+      link : "https://fb.watch/7g3csmXeSI/"
+  
+      
+    # portfolio item loop
+    - name : Đám Cưới
+      image : images/portfolio/wedding.jpg
+      image_webp : images/portfolio/wedding.webp
+      categories : ["photography"]
+      content : Đám Cưới, Đám Hỏi
+      link : "#"
+
+ 

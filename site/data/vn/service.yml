@@ -1,0 +1,21 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Dịch Vụ
+  service_item :
+    # service item loop
+    - name : Sản Xuất Video
+      icon : ti-video-camera # themify icon pack : https://themify.me/themify-icons
+      content : Set-up địa điểm quay, dàn cảnh, đạo diễn và dựng phim theo lịch trình hoặc yêu cầu kịch bản của event.
+      
+    # service item loop
+    - name : Chụp Ảnh
+      icon : ti-gallery # themify icon pack : https://themify.me/themify-icons
+      content : Cung cấp dịch vụ chụp hình event ngoài trời, trong studio, hoặc tại các địa điểm trong và ngoài nước tuỳ theo yêu cầu.
+      
+    # service item loop
+    - name : Ghi Hình Với Drone
+      icon : ti-vector # themify icon pack : https://themify.me/themify-icons
+      content : Bay Flying Cam theo yêu cầu, trả hình trong ngày hoặc trong tuần nếu bạn yêu cầu dựng phim.
+      
+    

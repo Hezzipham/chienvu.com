@@ -1,0 +1,64 @@
+##################################### pricing ##############################
+pricing:
+  enable : true
+  title : Our Price
+  pricing_table :
+    # pricing table loop
+    - name : Photography
+      price : From $99
+      unit : Project
+      services:
+        - Booking
+        - Meeting At Location
+        - Set-up
+        - Shooting
+        - Retouch Photos
+        - Product Delivering
+      button:
+        label : "Quote"
+        link : "#contact"
+      
+    # pricing table loop
+    - name : Video Editing
+      price: From $149
+      unit : Project
+      services:
+        - Receive Footage
+        - Receive Requirement 
+        - Script Advices
+        - Voice-over as needed
+        - Editing
+        - Product Delivering
+      button:
+        label : "Quote"
+        link : "#contact"
+        
+    # pricing table loop
+    - name : Videography
+      price: From $249
+      unit : Project
+      services:
+        - Booking 
+        - Package Selection
+        - Script Draft
+        - Shooting
+        - Editing
+        - Product Delivering
+      button:
+        label : "Quote"
+        link : "#contact"
+        
+    # pricing table loop
+    - name : Web Development
+      price : From $349
+      unit : Project
+      services:
+        - Receive Requirement
+        - Web Design
+        - Host and Domain Plan
+        - Collect Images, Content
+        - Website Building
+        - Product Delivering
+      button:
+        label : "Quote"
+        link : "#contact"

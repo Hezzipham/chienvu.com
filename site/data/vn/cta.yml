@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bike.jpg"
+  bg_image_webp : "images/backgrounds/bike.webp"
+  title : "Sáng Tạo và Chuyên Nghiệp"
+  content : "Chúng tôi cam kết tư vấn hỗ trợ và đồng hành để luôn mang đến những giải pháp tốt nhất cho doanh nghiệp của bạn!"
+  button:
+    enable : true
+    label : "Hợp Tác Với Chúng Tôi"
+    link : "#contact"

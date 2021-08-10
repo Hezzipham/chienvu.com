@@ -1,0 +1,65 @@
+##################################### pricing ##############################
+pricing:
+  enable : true
+  title : Báo Giá Dịch Vụ
+  pricing_table :
+    # pricing table loop
+    - name : Chụp Ảnh
+      price : Từ 2 Triệu VND
+      unit : Dự Án
+      services:
+        - Đặt Lịch
+        - Tới Địa Điểm
+        - Trao Đổi Concept 
+        - Chụp Hình
+        - Chỉnh Sửa Ảnh
+        - Trả Ảnh 
+    
+      button:
+        label : "Báo Giá"
+        link : "#contact"
+      
+    # pricing table loop
+    - name : Dựng Video
+      price : Từ 3 Triệu VND
+      unit : Dự Án
+      services:
+        - Nhận Nội Dung
+        - Tìm Hiểu Yêu Cầu
+        - Tư Vấn Kịch Bản
+        - Nhận Ghi Âm Nếu Cần
+        - Sản Xuất Video
+        - Trả Video
+      button:
+        label : "Báo Giá"
+        link : "#contact"
+        
+    # pricing table loop
+    - name : Quay Phim
+      price : Từ 5 Triệu VND
+      unit : Dự Án
+      services:
+        - Đặt Lịch
+        - Chọn Gói Quay 
+        - Lên Kịch Bản
+        - Quay Phim
+        - Dựng Theo Yêu Cầu
+        - Trả Video
+      button:
+        label : "Báo Giá"
+        link : "#contact"
+        
+    # pricing table loop
+    - name : Phát Triển Web
+      price : Từ 7 Triệu VND
+      unit : Dự Án
+      services:
+        - Nhận Yêu Cầu
+        - Lên Thiết Kế
+        - Tư Vấn Host, Domain
+        - Làm Nội Dung, Hình Ảnh
+        - Phát Triển Web
+        - Chạy Thử và Bàn Giao
+      button:
+        label : "Báo Giá"
+        link : "#contact"

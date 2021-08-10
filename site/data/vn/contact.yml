@@ -1,0 +1,28 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Liên Hệ
+  subtitle : Thông Tin Liên Hệ
+  content : Nếu bạn muốn có sản phẩm chất lượng, hãy inbox cho chúng tôi hoặc liên hệ qua
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Số 12, Ngõ 36, Hoàng Ngọc Phách Hanoi, Vietnam 117066"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +84 97 840 25 06"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: dominomediavietnam@gmail.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Họ Tên"
+    email : "Địa chỉ email"
+    subject : "Chủ Đề"
+    message : "Tin Nhắn"
+    submit : "Gửi Đi"

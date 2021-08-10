@@ -1,0 +1,29 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Kĩ Năng
+  subtitle : Tỉ Lệ Tăng Trưởng Của Domino Media
+  content : Chúng tôi tự hào là đơn vị mang lại sản phẩm công nghệ hàng đầu trong nhiều lĩnh vực công nghệ kĩ thuật số.
+  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Quay Dựng Video
+      percent : 95%
+      
+     # skill item loop
+    - name :  Dronography
+      percent : 90%
+
+    # skill item loop
+    - name :  Chụp Ảnh
+      percent : 98%
+      
+    # skill item loop
+    - name :  Thiết Kế Đồ Hoạ
+      percent : 80%
+
+     # skill item loop  
+    - name :  Phát Triển Web
+      percent : 95%
+      
+    

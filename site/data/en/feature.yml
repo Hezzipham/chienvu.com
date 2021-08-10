@@ -1,0 +1,26 @@
+############################# feature ###################################
+feature:
+  enable : true
+  title : About Us
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  content : "Digital Product Packages"
+  feature_item : 
+      # feature item loop
+    - title : Wedding Package
+      icon : ti-video-clapper # themify icon pack : https://themify.me/themify-icons
+      content : We have many years of experience in wedding capture. Your job is being gorgeous at your wedding, let's us do the rest!
+      
+      # feature item loop
+    - title : Music Video
+      icon : ti-music-alt # themify icon pack : https://themify.me/themify-icons
+      content : Creativity in videos production is a key to bringing the music closer to audiences, let us help you tell your unique story. 
+      # feature item loop
+    - title : Commercial Package
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : We are proud to deliver the most meaningful and quality videos in advertising projects with many large enterprises.
+      
+      # feature item loop
+    - title : Personal Branding
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : We are committed to working on a personal brand image with the most reasonable price and professional attitude.

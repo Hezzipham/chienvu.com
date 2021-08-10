@@ -1,0 +1,103 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Our Works
+  portfolio_item :
+# portfolio item loop
+    - name : Hue, Vietnam
+      image : images/portfolio/hue.jpg
+      image_webp : images/portfolio/hue.webp
+      categories : ["videography", "dronography"]
+      content : Travel Hue, Vietnam
+      link : "https://www.youtube.com/watch?v=vM8m020jUQU"
+
+   
+    # portfolio item loop
+    - name : Vietwings Hanoi
+      image : images/portfolio/drone.jpg
+      image_webp : images/portfolio/drone.webp
+      categories : [ "dronography"]
+      content : Flying over the golden season.
+      link : "https://youtu.be/hfkUxd7DyAE"
+      
+   
+      
+    # portfolio item loop
+    - name : Shark Hung
+      image : images/portfolio/sharkhung.jpg
+      image_webp : images/portfolio/sharkhung.webp
+      categories : ["photography", "videography"]
+      content : Luxstay interview.
+      link : "https://fb.watch/7fYwfMgw7-/"
+      
+    
+    # portfolio item loop
+    - name : An Cuu Home
+      image : images/portfolio/factory.jpg
+      image_webp : images/portfolio/factory.webp
+      categories : ["videography", "dronography"]
+      content : An Cuu City - Hue.
+      link : "https://fb.watch/7fYmzu0asl/"
+      
+   
+
+      # portfolio item loop
+    - name : Car TVC
+      image : images/portfolio/car.jpg
+      image_webp : images/portfolio/car.webp
+      categories : ["dronography"]
+      content : Huyndai in Hanoi.
+      link : "https://fb.watch/7fYb6sVojW/"
+
+      # portfolio item loop
+    - name : Hoang Dung Actor
+      image : images/portfolio/hoangdung.jpg
+      image_webp : images/portfolio/hoangdung.webp
+      categories : ["photography"]
+      content : Hoang Dung Interview
+      link : ""
+      
+       # portfolio item loop
+    - name : My Linh
+      image : images/portfolio/mylinh.jpg
+      image_webp : images/portfolio/mylinh.webp
+      categories : ["photography"]
+      content : TVC with miss Vietnam
+      link : "#"
+      
+    # portfolio item loop
+    - name : Work Out
+      image : images/portfolio/workout.jpg
+      image_webp : images/portfolio/workout.webp
+      categories : ["videography"]
+      content : Resort video
+      link : "https://fb.watch/7fYE3BKITN/"
+
+         # portfolio item loop
+    - name : Quach Anh Show
+      image : images/portfolio/quachanh.jpg
+      image_webp : images/portfolio/quachanh.webp
+      categories : ["videography"]
+      content : Event At AEON MALL Long Bien.
+      link : ""
+      
+      # portfolio item loop
+    - name : Tenere
+      image : images/portfolio/kiddo.jpg
+      image_webp : images/portfolio/kiddo.webp
+      categories : ["videography"]
+      content : Commercial Video
+      link : "https://fb.watch/7g3csmXeSI/"
+      
+
+       # portfolio item loop
+    - name : Wedding
+      image : images/portfolio/wedding.jpg
+      image_webp : images/portfolio/wedding.webp
+      categories : ["photography"]
+      content : Wedding Video
+      link : "#"
+
+
+    
+    

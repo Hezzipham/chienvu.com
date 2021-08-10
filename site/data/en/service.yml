@@ -1,0 +1,22 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    
+    # service item loop
+    - name : Videography
+      icon : ti-video-camera # themify icon pack : https://themify.me/themify-icons
+      content : Setting up camera, light, and shooting live events or directing base on the script. We also make video editing and voice-over as required.
+      
+    # service item loop
+    - name : Photography
+      icon : ti-gallery # themify icon pack : https://themify.me/themify-icons
+      content : Provide photography services outdoors, in the studio, or at domestic and foreign locations depending on requirements, retouch photos if needed. 
+      
+    # service item loop
+    - name : Drone Capture
+      icon : ti-vector # themify icon pack : https://themify.me/themify-icons
+      content : Operating flying-cam on demand, set-up live-stream or return footages in a day or a week depending on the requirement of the projects.
+      
+    

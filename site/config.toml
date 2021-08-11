@@ -106,12 +106,15 @@ weight = 7
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Domino Media Vietnam - Digital Solution in Photography, Videography and Dronography "
-author = "Chien Vu - Vietnam"
+title = "Domino Media Vietnam"
+description = "Digital Solution in Photography, Videography and Dronography "
+image = "images/chienvu.jpg"
+author = "Chien Vu"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
 post_share = true
+
 
 # preloader
 [params.preloader]

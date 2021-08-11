@@ -15,10 +15,10 @@
   	<meta name="twitter:image" content="{{ . | absURL }}" />
   	<meta name="twitter:image:src" content="{{ . | absURL }}" /> 
 	{{ else }}
-  	<meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
-  	<meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
-  	<meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
-  	<meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> 
+  	<meta itemprop="image" content="{{ .site.Params.image | absURL }}" />
+  	<meta property="og:image" content="{{ .site.Params.image | absURL }}" />
+  	<meta name="twitter:image" content="{{ .site.Params.image | absURL }}" />
+  	<meta name="twitter:image:src" content="{{ .site.Params.image | absURL }}" /> 
 	{{ end }}
 
 

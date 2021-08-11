@@ -106,8 +106,8 @@ weight = 7
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "Domino Media - Digital Solution in Photography, Videography and Drono Graphy "
+author = "Chien Vu - Vietnam"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -157,7 +157,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Designed by Domino Media"
+copyright = "© 2021 Domino Media"
 
 ################################ vietnamese Language ########################
 [Languages.vn]
@@ -166,4 +166,4 @@ languageCode = "vn-vn"
 contentDir = "content/vietnamese"
 weight = 2
 home = "Accueil"
-copyright = "Bản quyền thuộc về Domino Media"
+copyright = "© 2021 Bản quyền thuộc về Domino Media"

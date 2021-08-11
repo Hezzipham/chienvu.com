@@ -15,12 +15,12 @@
   	<meta name="twitter:image" content="{{ . | absURL }}" />
   	<meta name="twitter:image:src" content="{{ . | absURL }}" /> 
 	{{ else }}
-  	<meta itemprop="image" content="{{ .site.Params.image | absURL }}" />
-  	<meta property="og:image" content="{{ .site.Params.image | absURL }}" />
-  	<meta name="twitter:image" content="{{ .site.Params.image | absURL }}" />
-  	<meta name="twitter:image:src" content="{{ .site.Params.image | absURL }}" /> 
+  	<meta itemprop="image" content="{{ site.Params.image | absURL }}" />
+  	<meta property="og:image" content="{{ site.Params.image | absURL }}" />
+  	<meta name="twitter:image" content="{{ site.Params.image | absURL }}" />
+  	<meta name="twitter:image:src" content="{{ site.Params.image | absURL }}" /> 
 	{{ end }}
-
+	<meta name="twitter:site" content="{{ site.Params.twitter }}">
 
 	{{ with site.Params.author }}
 	<meta name="author" content="{{ . }}">{{ end }}

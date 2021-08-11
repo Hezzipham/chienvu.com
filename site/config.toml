@@ -108,7 +108,7 @@ logo = "images/logo.png"
 # Meta data
 title = "Domino Media Vietnam"
 description = "Digital Solution in Photography, Videography and Dronography "
-image = "images/chienvu.jpg"
+image = "https://www.flickr.com/photos/188221175@N02/50192773838/in/dateposted/"
 author = "Chien Vu"
 # Google Analytics
 google_analytics_id = "" # Your ID

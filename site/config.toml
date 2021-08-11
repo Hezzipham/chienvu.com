@@ -108,7 +108,7 @@ logo = "images/logo.png"
 # Meta data
 title = "Domino Media Vietnam"
 description = "Digital Solution in Photography, Videography and Dronography "
-image = "../../images/chienvu.jpg"
+image = "images/chienvu.jpg"
 author = "Chien Vu"
 # Google Analytics
 google_analytics_id = "" # Your ID
@@ -168,5 +168,5 @@ languageName = "Vn"
 languageCode = "vn-vn"
 contentDir = "content/vietnamese"
 weight = 2
-home = "Accueil"
+home = "Trang Chủ"
 copyright = "© 2021 Bản quyền thuộc về Domino Media"

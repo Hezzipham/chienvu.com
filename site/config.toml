@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://chienvu.com"
 title = "Domino Media"
-theme = "meghna-hugo"
+theme = "domino-media"
 themesDir = "../.."
 # post pagination
 paginate = "6"
@@ -108,7 +108,7 @@ logo = "images/logo.png"
 # Meta data
 title = "Domino Media Vietnam"
 description = "Digital Solution in Photography, Videography and Dronography "
-image = "https://www.flickr.com/photos/188221175@N02/50192773838/in/dateposted/"
+image = "images/logo.png"
 author = "Chien Vu"
 # Google Analytics
 google_analytics_id = "" # Your ID

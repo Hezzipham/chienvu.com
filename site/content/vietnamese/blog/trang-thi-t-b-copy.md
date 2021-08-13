@@ -1,10 +1,10 @@
 +++
 author = "Chien Vu"
 date = 2018-09-12T06:52:36Z
-description = "Chuyến Đi Nước Ngoài"
-image = "images/blog/dubai.jpg"
-image_webp = "images/blog/dubai.webp"
-title = "Công Tác Tại Dubai-(copy)"
+description = "Máy Móc Thiết Bị"
+image = "images/blog/gear.jpg"
+image_webp = "images/blog/gear.webp"
+title = "Trang Thiết Bị-(copy)"
 
 +++
 Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.

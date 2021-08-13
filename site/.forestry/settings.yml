@@ -8,7 +8,7 @@ sections:
   path: site/data/vn
   label: fafag
   create: all
-  match: portfolio.yml/*
+  match: portfolio.yml
 - type: directory
   path: site/content/english/blog
   label: Blog Post (en)

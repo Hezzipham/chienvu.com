@@ -1,11 +1,12 @@
-############################# call to action ##############################
+---
 cta:
-  enable : true
-  bg_image : "images/backgrounds/bike.jpg"
-  bg_image_webp : "images/backgrounds/bike.webp"
-  title : "Creative Digital Product & Greate Support"
-  content : "We are committed to consulting, supporting and accompanying to always bring the best solutions for your business!"
+  enable: true
+  bg_image: images/backgrounds/bike.jpg
+  bg_image_webp: images/backgrounds/bike.webp
+  title: 'Creative & Professional '
+  content: We are committed to consulting, supporting and accompanying to always bring
+    the best solutions for your business!
   button:
-    enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    enable: true
+    label: Start a project with us
+    link: "#contact"

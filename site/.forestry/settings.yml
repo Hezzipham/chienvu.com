@@ -5,16 +5,6 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: site/data/en
-  label: Add Project (En)
-  create: documents
-  match: portfolio.yml
-- type: directory
-  path: site/data/vn
-  label: Thêm Projects (vn)
-  create: all
-  match: portfolio.yml
-- type: directory
   path: site/content/english/blog
   label: Blog Post (en)
   create: documents

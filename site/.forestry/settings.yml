@@ -5,10 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: site/data/en/portfolio.yml
+  path: site/data/en
   label: Portfolio
   create: all
-  match: "**/*"
+  match: portfolio.yml
 - type: directory
   path: site/content/english/blog
   label: Post (en)
@@ -25,7 +25,7 @@ sections:
   templates:
   - post
 - type: directory
-  path: site/data/en
+  path: site/data
   label: Homepage
   create: all
   match: "**/*"

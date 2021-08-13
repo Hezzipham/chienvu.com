@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: site/data/vn
+  label: fafag
+  create: all
+  match: portfolio.yml/*
+- type: directory
   path: site/content/english/blog
   label: Blog Post (en)
   create: documents

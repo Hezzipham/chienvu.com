@@ -2,7 +2,6 @@
 author = "Chien Vu"
 date = 2018-09-12T06:52:36Z
 description = "Chuyến Đi Nước Ngoài"
-draft = true
 image = "images/blog/dubai.jpg"
 image_webp = "images/blog/dubai.webp"
 title = "Công Tác Tại Dubai-(copy)"

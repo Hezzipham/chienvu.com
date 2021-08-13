@@ -5,8 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: site/data/en
+  label: Add project to portfolio (en)
+  create: all
+  match: portfolio.yml
+- type: directory
   path: site/data/vn
-  label: fafag
+  label: " Thêm Project vào portfolio (vn)"
   create: all
   match: portfolio.yml
 - type: directory

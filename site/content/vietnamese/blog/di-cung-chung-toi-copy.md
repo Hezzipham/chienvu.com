@@ -2,7 +2,6 @@
 author = "Chien Vu"
 date = 2018-09-12T06:52:36Z
 description = "Thông Tin Tuyển Dụng"
-draft = true
 image = "images/blog/tuyendung.jpg"
 image_webp = "images/blog/tuyendung.webp"
 title = "Đi Cùng Chúng Tôi-(copy)"

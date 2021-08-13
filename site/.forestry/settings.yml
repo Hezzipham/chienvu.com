@@ -4,11 +4,19 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Blog Post
+- type: directory
+  path: site/data/en
+  label: Add Project (En)
+  create: documents
+  match: portfolio.yml
+- type: directory
+  path: site/data/vn
+  label: Thêm Projects (vn)
+  create: all
+  match: portfolio.yml
 - type: directory
   path: site/content/english/blog
-  label: Post (en)
+  label: Blog Post (en)
   create: documents
   match: "**/*"
   new_doc_ext: md
@@ -16,24 +24,16 @@ sections:
   - post
 - type: directory
   path: site/content/vietnamese/blog
-  label: Post (vn)
+  label: Viết Blog (vn)
   create: documents
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Data
 - type: directory
   path: site/data
-  label: Homepage
+  label: Thay đổi content các trang
   create: all
   match: "**/*"
-- type: directory
-  path: site
-  label: Configuration
-  create: all
-  match: "*.toml"
-  new_doc_ext: toml
 upload_dir: site/static/images
 public_path: "/images"
 front_matter_path: ''

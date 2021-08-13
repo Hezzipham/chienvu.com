@@ -22,5 +22,3 @@ fields:
   name: description
   label: description
   description: meta description
-pages:
-- site/content/vietnamese/blog/hahhaah.md

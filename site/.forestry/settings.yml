@@ -22,35 +22,12 @@ sections:
   templates:
   - post
 - type: heading
-  label: Author
-- type: directory
-  path: site/content/english/author
-  label: Author (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: directory
-  path: site/content/vietnamese/author
-  label: Author (vn)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: heading
   label: Data
 - type: directory
   path: site/data
   label: Homepage
   create: all
   match: "**/*"
-- type: directory
-  path: site/i18n
-  label: i18n
-  create: documents
-  match: "**/*"
-- type: heading
-  label: Configuration
 - type: directory
   path: site
   label: Configuration

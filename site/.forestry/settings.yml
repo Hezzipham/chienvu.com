@@ -4,8 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Blog Post
 - type: directory
   path: site/content/english/blog
   label: Post (en)
@@ -21,19 +19,11 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Data
 - type: directory
   path: site/data
   label: Homepage
   create: all
   match: "**/*"
-- type: directory
-  path: site
-  label: Configuration
-  create: all
-  match: "*.toml"
-  new_doc_ext: toml
 upload_dir: site/static/images
 public_path: "/images"
 front_matter_path: ''

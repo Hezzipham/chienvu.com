@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: site/data/en
-  label: Portfolio
+  label: Portfolio(en)
   create: all
   match: portfolio.yml
 - type: directory
